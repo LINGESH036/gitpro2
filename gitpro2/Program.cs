@@ -12,6 +12,7 @@ namespace gitpro2
         {
             Console.WriteLine("hello kavi");
             Console.WriteLine("welcome to trichy");
+            Console.WriteLine("there is have famous places in trichy");
         }
     }
 }
